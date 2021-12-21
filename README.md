@@ -1,2 +1,2 @@
 # Techdegree-Project-3
-Responsive registration Form
+Responsive Registration Form
